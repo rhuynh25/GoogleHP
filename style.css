@@ -125,3 +125,28 @@ ul {
   margin-right: 20px;
   padding: 10px
 }
+
+/* Google Images Section */
+
+#googImg {
+  width: auto;
+  height: 100px;
+  margin-top: 10rem;
+  margin-bottom: 0.8rem;
+}
+
+.Img {
+  align-content: center;
+  justify-content: center;
+  display: flex;
+}
+
+.ImgSearch {
+  border-radius: 8px;
+  color: black;
+  font-size: 14px;
+  cursor: pointer;
+  align-items: center;
+  margin-top: 20px;
+  padding-left: 48%;
+}
